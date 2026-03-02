@@ -1,5 +1,4 @@
 #Python Virtual Environment
 venv/
 
-#Python pycache files
-__pycache__/
+final_project.pdf
